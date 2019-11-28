@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="CursesMenu-scoutchorton", # Replace with your own username
+    name="CursesMenu", # Replace with your own username
     version="0.0.1",
     author="scoutchorton",
     author_email="scoutchorton@gmail.com",
