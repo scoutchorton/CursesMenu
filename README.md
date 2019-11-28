@@ -1,4 +1,6 @@
 # CursesMenu
+![PyPI](https://img.shields.io/pypi/v/CursesMenu)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/scoutchorton/CursesMenu)
 
 ## Description
 
